@@ -1,0 +1,1 @@
+[{"userName":"Carlos","password":"1234","rol":{"description":"ADMIN","permits":[{"description":"RESERVATION"},{"description":"CUSTOMER"}]},"name":"Carlos","lastName":"Figueroa","dni":"23321123"},{"userName":"lucas","password":"1234","rol":{"description":"RECEPCIONIST"},"name":"Lucas","lastName":"Alameda","dni":"2131232"}]
